@@ -1,0 +1,14 @@
+layout_spectrum: 0.17979382048361003
+typography_spectrum: 0.6160867740400136
+color:
+  brandStrength: 0.8566172395367175
+  lightness: 0.9047451370861381
+  saturation: 0.6866867870558053
+  rhythmicContrast: 0.017648000502958894
+  brandColors:
+    - '#E7E1E3'
+    - '#0C0D12'
+    - '#9F7A67'
+    - '#2B3141'
+    - '#B1B4B9'
+name: Circles and Squares
